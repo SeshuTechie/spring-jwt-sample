@@ -1,0 +1,7 @@
+Improvements
+------------
+- Proper Logout for Jwt tokens
+- Implement OAuth for refresh tokens
+- Move classes to separate packages (service/controller/...)
+- Further error details on error message
+
